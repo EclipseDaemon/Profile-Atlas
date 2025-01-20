@@ -35,10 +35,10 @@ Server
 
 4. **After Installing all the dependencies**
    <ul>
-  <li> -start your express server on (localhost:3000)</li>
    <li> -start your react server on (localhost: 5173)</li>
-  <li>  -open your mongodbcompass application and start a connection create database.</li>
+  <li>  -open your mongodb compass application and then start  connection and a create database.</li>
   <li>  -update your database name with the file (Server >> db >> dbConnection.js) to  "mongodb://127.0.0.1/yourdatabasename".</li>
+   <li> -start your express server on (localhost:3000)</li>
   <li>  -after doing this ensure the express server is running properly and  "Database Connected !" is displayed on console.</li>
   <li>  -once all things are set you can go to react server at end point (localhost:5173/admin) there you can add profile as you like.</li>
    <li> -you can see update profile on (localhost:5173) homepage and when you click on summary button you will be redirected to map navigation map.</li>
