@@ -27,13 +27,13 @@ Server
    ```bash
    git clone https://github.com/EclipseDaemon/Profile-Atlas.git
 
-   cd Client
-npm install
+2. <code>cd Client</code>
+<code>npm install</code>
 
-    cd Server
-npm install
+3. <code>cd Server</code>
+<code>npm install</code>
 
-2. **After Installing all the dependencies**
+4. **After Installing all the dependencies**
    <ul>
   <li> -start your express server on (localhost:3000)</li>
    <li> -start your react server on (localhost: 5173)</li>
